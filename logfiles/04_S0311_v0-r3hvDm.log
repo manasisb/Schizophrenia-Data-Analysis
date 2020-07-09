@@ -1,0 +1,24 @@
+Scenario - visual LTP Rap V4.0 HVD (based on combined block 1+2 from old 45 135 degree pilot)
+Logfile written - 10/08/2015 17:27:00
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+04_S0311_v0	1	Response	128	5338	15171	2
+04_S0311_v0	3	Picture	full1n	15832	0	2	4667	3	0	4620
+04_S0311_v0	4	Picture	full0n	27499	0	1	2667	2	0	2620
+04_S0311_v0	5	Picture	full0i	39332	0	1	4334	2	0	4290
+04_S0311_v0	6	Picture	blue0n	52332	0	1	2667	2	0	2620
+04_S0311_v0	6	Response	10	57854	5522	1
+04_S0311_v0	7	Picture	full1i	64499	0	1	4000	2	0	3950
+04_S0311_v0	8	Picture	full1n	75665	0	1	2500	2	0	2450
+04_S0311_v0	8	Quit		81337	5672	
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Picture	full1n	other				15832	2	4667	3	0	4620
+Picture	full0n	other				27499	1	2667	2	0	2620
+Picture	full0i	other				39332	1	4334	2	0	4290
+Picture	blue0n	false alarm	2	5522	2	52332	1	2667	2	0	2620
+Picture	full1i	other				64499	1	4000	2	0	3950
+Picture	full1n	other				75665	1	2500	2	0	2450

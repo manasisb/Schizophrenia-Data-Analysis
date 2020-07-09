@@ -1,0 +1,10 @@
+,Subject,Trial,Event Type,Code,Time,TTime,Uncertainty,Duration,Uncertainty,ReqTime,ReqDur
+1,04_S0311_v0,1,Response,128,5338,15171,2,,,,
+2,04_S0311_v0,3,Picture,full1n,15832,0,2,4667,3,0,4620
+3,04_S0311_v0,4,Picture,full0n,27499,0,1,2667,2,0,2620
+4,04_S0311_v0,5,Picture,full0i,39332,0,1,4334,2,0,4290
+5,04_S0311_v0,6,Picture,blue0n,52332,0,1,2667,2,0,2620
+6,04_S0311_v0,6,Response,10,57854,5522,1,,,,
+7,04_S0311_v0,7,Picture,full1i,64499,0,1,4000,2,0,3950
+8,04_S0311_v0,8,Picture,full1n,75665,0,1,2500,2,0,2450
+9,04_S0311_v0,8,Quit,,81337,5672,,,,,

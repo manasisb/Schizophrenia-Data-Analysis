@@ -1,0 +1,606 @@
+Scenario - visual LTP Rap V4.0 HVA (based on combined block 1+2 from old 45 135 degree pilot)
+Logfile written - 02/26/2016 15:33:34
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+01_S-325_v0	1	Response	128	44090	53923	1
+01_S-325_v0	3	Picture	full1n	54499	0	1	3167	2	0	3120	other	0
+01_S-325_v0	4	Picture	full1i	65429	0	238	2904	239	0	2790	other	0
+01_S-325_v0	5	Picture	full1n	78666	0	1	4500	2	0	4450	other	0
+01_S-325_v0	6	Picture	full0n	91832	0	2	3500	4	0	3450	other	0
+01_S-325_v0	7	Picture	full1i	102666	0	1	4833	2	0	4790	other	0
+01_S-325_v0	8	Picture	full1n	114832	0	2	4334	3	0	4290	other	0
+01_S-325_v0	9	Picture	full0i	126999	0	1	3500	2	0	3450	other	0
+01_S-325_v0	10	Picture	full0n	139332	0	2	4167	3	0	4120	other	0
+01_S-325_v0	11	Picture	blue0i	150802	0	198	3030	199	0	2950	false_alarm	11
+01_S-325_v0	11	Response	10	158173	7371	1
+01_S-325_v0	12	Picture	full1i	162832	0	1	3834	2	0	3790	other	0
+01_S-325_v0	13	Picture	full0n	175666	0	1	5000	2	0	4950	other	0
+01_S-325_v0	14	Picture	full0i	188332	0	1	4167	2	0	4120	other	0
+01_S-325_v0	15	Picture	full1n	201832	0	1	4167	2	0	4120	other	0
+01_S-325_v0	16	Picture	full1i	214499	0	1	3667	2	0	3620	other	0
+01_S-325_v0	17	Picture	full1n	225832	0	1	4500	2	0	4450	other	0
+01_S-325_v0	18	Picture	blue1i	237999	0	1	3333	2	0	3290	false_alarm	19
+01_S-325_v0	18	Response	10	243769	5770	4
+01_S-325_v0	19	Picture	full1n	250165	0	2	4334	3	0	4290	other	0
+01_S-325_v0	20	Picture	full0n	262332	0	1	4667	2	0	4620	other	0
+01_S-325_v0	21	Picture	full1i	274165	0	2	2500	3	0	2450	other	0
+01_S-325_v0	22	Picture	full0i	286499	0	1	3000	2	0	2950	other	0
+01_S-325_v0	23	Picture	full0n	299999	0	1	5000	2	0	4950	other	0
+01_S-325_v0	24	Picture	full0i	313499	0	1	4500	2	0	4450	other	0
+01_S-325_v0	25	Picture	full0n	326332	0	1	3000	2	0	2950	other	0
+01_S-325_v0	26	Picture	full1n	338999	0	1	3333	2	0	3290	other	0
+01_S-325_v0	27	Picture	blue1i	350832	0	1	3167	2	0	3120	false_alarm	29
+01_S-325_v0	27	Response	10	354968	4136	4
+01_S-325_v0	28	Picture	full0i	363499	0	1	3833	2	0	3790	other	0
+01_S-325_v0	29	Picture	full0n	375832	0	1	5000	2	0	4950	other	0
+01_S-325_v0	30	Picture	full0i	387665	0	1	2500	2	0	2450	other	0
+01_S-325_v0	31	Picture	full1n	398998	0	2	4334	3	0	4290	other	0
+01_S-325_v0	31	Response	10	402770	3772	1
+01_S-325_v0	32	Picture	full1i	411165	0	1	2833	3	0	2790	other	0
+01_S-325_v0	33	Picture	full0n	422665	0	1	2833	2	0	2790	other	0
+01_S-325_v0	34	Picture	full1n	433498	0	2	4167	3	0	4120	other	0
+01_S-325_v0	35	Picture	full1i	445665	0	1	3667	2	0	3620	other	0
+01_S-325_v0	36	Picture	full1n	458498	0	1	3667	2	0	3620	other	0
+01_S-325_v0	37	Picture	full0i	470665	0	1	5000	2	0	4950	other	0
+01_S-325_v0	38	Picture	blue1i	481998	0	1	2834	2	0	2790	false_alarm	42
+01_S-325_v0	38	Response	10	486769	4771	1
+01_S-325_v0	38	Response	10	486969	4971	1
+01_S-325_v0	38	Response	10	489569	7571	1
+01_S-325_v0	39	Picture	full1n	492998	0	1	3000	2	0	2950	other	0
+01_S-325_v0	40	Picture	full0n	505665	0	1	2833	2	0	2790	other	0
+01_S-325_v0	41	Picture	full0i	516665	0	1	4000	2	0	3950	other	0
+01_S-325_v0	42	Picture	full0n	528832	0	1	3666	2	0	3620	other	0
+01_S-325_v0	43	Picture	full0i	541665	0	1	2833	2	0	2790	other	0
+01_S-325_v0	44	Picture	full0n	554831	0	2	4334	3	0	4290	other	0
+01_S-325_v0	45	Picture	full1i	567998	0	1	3667	2	0	3620	other	0
+01_S-325_v0	46	Picture	full0i	580665	0	1	3666	2	0	3620	other	0
+01_S-325_v0	47	Picture	full1n	591498	0	1	4500	2	0	4450	other	0
+01_S-325_v0	48	Picture	full0n	603665	0	1	3166	2	0	3120	other	0
+01_S-325_v0	49	Picture	full1i	615165	0	1	3000	2	0	2950	other	0
+01_S-325_v0	50	Picture	blue0i	626998	0	1	3167	2	0	3120	false_alarm	57
+01_S-325_v0	50	Response	10	631765	4767	4
+01_S-325_v0	51	Picture	full0n	638498	0	1	3833	2	0	3790	other	0
+01_S-325_v0	52	Picture	full0i	650831	0	1	3000	2	0	2950	other	0
+01_S-325_v0	53	Picture	full0n	662331	0	1	4833	5	0	4790	other	0
+01_S-325_v0	54	Picture	full1n	675498	0	1	2500	2	0	2450	other	0
+01_S-325_v0	55	Picture	full1i	686331	0	1	3000	2	0	2950	other	0
+01_S-325_v0	56	Picture	full0i	699831	0	1	3000	2	0	2950	other	0
+01_S-325_v0	57	Picture	full0n	711164	0	2	3667	3	0	3620	other	0
+01_S-325_v0	58	Picture	full1n	724331	0	1	3333	2	0	3290	other	0
+01_S-325_v0	59	Picture	full1i	736498	0	1	4500	2	0	4450	other	0
+01_S-325_v0	60	Picture	blue1n	748331	0	1	4167	2	0	4120	false_alarm	68
+01_S-325_v0	60	Response	10	752966	4635	1
+01_S-325_v0	61	Picture	full0i	760664	0	1	2667	2	0	2620	other	0
+01_S-325_v0	62	Picture	full0n	773331	0	1	4667	2	0	4620	other	0
+01_S-325_v0	63	Picture	full0i	785498	0	1	2665	5	0	2620	other	0
+01_S-325_v0	64	Picture	full1i	798331	0	1	4667	2	0	4620	other	0
+01_S-325_v0	65	Picture	full0n	809831	0	1	2833	2	0	2790	other	0
+01_S-325_v0	66	Picture	full1n	821998	0	1	4000	2	0	3950	other	0
+01_S-325_v0	67	Picture	full1i	834831	0	1	3500	2	0	3450	other	0
+01_S-325_v0	68	Picture	full1n	847162	0	4	4002	5	0	3950	other	0
+01_S-325_v0	69	Picture	full0i	859331	0	1	4500	2	0	4450	other	0
+01_S-325_v0	70	Picture	blue0n	871497	0	2	2500	3	0	2450	false_alarm	79
+01_S-325_v0	70	Response	10	877562	6065	4
+01_S-325_v0	71	Picture	full0i	883664	0	1	4167	2	0	4120	other	0
+01_S-325_v0	72	Picture	full0n	894497	0	1	4834	2	0	4790	other	0
+01_S-325_v0	73	Picture	full0i	905497	0	1	2500	2	0	2450	other	0
+01_S-325_v0	74	Picture	full0n	918331	0	1	4833	2	0	4790	other	0
+01_S-325_v0	75	Picture	full0i	930997	0	1	3334	2	0	3290	other	0
+01_S-325_v0	76	Picture	full1i	944497	0	1	3500	2	0	3450	other	0
+01_S-325_v0	77	Picture	full1n	957164	0	1	3833	2	0	3790	other	0
+01_S-325_v0	78	Picture	full0n	969997	0	1	4500	2	0	4450	other	0
+01_S-325_v0	79	Picture	full0i	982164	0	1	2500	2	0	2450	other	0
+01_S-325_v0	80	Picture	full1i	992997	0	1	4167	2	0	4120	other	0
+01_S-325_v0	81	Picture	blue0n	1005830	0	2	4667	3	0	4620	false_alarm	91
+01_S-325_v0	81	Response	10	1010963	5133	1
+01_S-325_v0	81	Response	10	1011160	5330	4
+01_S-325_v0	82	Picture	full1n	1016830	0	2	2500	3	0	2450	other	0
+01_S-325_v0	83	Picture	full1i	1029164	0	1	3500	2	0	3450	other	0
+01_S-325_v0	84	Picture	full1n	1040164	0	1	3166	2	0	3120	other	0
+01_S-325_v0	85	Picture	full1i	1053330	0	1	3000	2	0	2950	other	0
+01_S-325_v0	86	Picture	full0i	1064830	0	1	3334	2	0	3290	other	0
+01_S-325_v0	87	Picture	full0n	1076330	0	1	3000	2	0	2950	other	0
+01_S-325_v0	88	Picture	full1n	1088664	0	1	3000	2	0	2950	other	0
+01_S-325_v0	89	Picture	full1i	1100830	0	1	3667	2	0	3620	other	0
+01_S-325_v0	90	Picture	full1n	1113997	0	1	4000	2	0	3950	other	0
+01_S-325_v0	91	Picture	full1i	1125330	0	1	4834	2	0	4790	other	0
+01_S-325_v0	92	Picture	full1n	1138497	0	1	2500	2	0	2450	other	0
+01_S-325_v0	93	Picture	full0i	1149830	0	1	4500	2	0	4450	other	0
+01_S-325_v0	94	Picture	blue1i	1161163	0	2	3334	3	0	3290	false_alarm	106
+01_S-325_v0	94	Response	10	1165948	4785	4
+01_S-325_v0	95	Picture	full1n	1172997	0	1	4500	2	0	4450	other	0
+01_S-325_v0	96	Picture	full0n	1186163	0	2	4167	3	0	4120	other	0
+01_S-325_v0	97	Picture	full1i	1197663	0	1	3834	2	0	3790	other	0
+01_S-325_v0	98	Picture	full1n	1208663	0	1	4500	2	0	4450	other	0
+01_S-325_v0	99	Picture	full1i	1221830	0	1	2833	2	0	2790	other	0
+01_S-325_v0	100	Picture	full1n	1232663	0	1	3834	2	0	3790	other	0
+01_S-325_v0	101	Picture	full1i	1244830	0	1	4500	2	0	4450	other	0
+01_S-325_v0	102	Picture	full0i	1255663	0	1	3667	2	0	3620	other	0
+01_S-325_v0	103	Picture	blue1n	1266663	0	1	4500	2	0	4450	false_alarm	116
+01_S-325_v0	103	Response	10	1270147	3484	4
+01_S-325_v0	104	Picture	full1i	1277663	0	1	4500	2	0	4450	other	0
+01_S-325_v0	105	Picture	full1n	1291163	0	1	4667	2	0	4620	other	0
+01_S-325_v0	106	Picture	full1i	1302996	0	2	3167	3	0	3120	other	0
+01_S-325_v0	107	Picture	full1n	1316496	0	2	2667	3	0	2620	other	0
+01_S-325_v0	108	Picture	full0n	1328330	0	1	4666	2	0	4620	other	0
+01_S-325_v0	109	Picture	full0i	1340496	0	1	5000	2	0	4950	other	0
+01_S-325_v0	110	Picture	full1i	1352830	0	1	3500	2	0	3450	other	0
+01_S-325_v0	111	Picture	full1n	1366330	0	1	4833	2	0	4790	other	0
+01_S-325_v0	112	Picture	blue0n	1378663	0	1	4500	2	0	4450	false_alarm	126
+01_S-325_v0	112	Response	10	1383348	4685	2
+01_S-325_v0	113	Picture	full0i	1389996	0	1	2667	2	0	2620	other	0
+01_S-325_v0	114	Picture	full1i	1401496	0	1	3167	2	0	3120	other	0
+01_S-325_v0	115	Picture	full0n	1414163	0	1	3167	2	0	3120	other	0
+01_S-325_v0	116	Picture	full0i	1424996	0	1	3167	2	0	3120	other	0
+01_S-325_v0	117	Picture	full0n	1436830	0	1	3166	2	0	3120	other	0
+01_S-325_v0	118	Picture	full1n	1449663	0	1	3833	2	0	3790	other	0
+01_S-325_v0	119	Picture	full1i	1463163	0	1	4833	2	0	4790	other	0
+01_S-325_v0	120	Picture	full1n	1475996	0	1	4500	2	0	4450	other	0
+01_S-325_v0	121	Picture	blue0i	1487329	0	2	4500	3	0	4450	false_alarm	136
+01_S-325_v0	121	Response	10	1491944	4615	4
+01_S-325_v0	122	Picture	full0n	1499163	0	1	5000	2	0	4950	other	0
+01_S-325_v0	123	Picture	full1i	1510154	0	12	2509	13	0	2450	other	0
+01_S-325_v0	124	Picture	full0i	1522496	0	1	4667	2	0	4620	other	0
+01_S-325_v0	125	Picture	full0n	1533829	0	1	3167	2	0	3120	other	0
+01_S-325_v0	126	Picture	full0i	1545163	0	1	4333	2	0	4290	other	0
+01_S-325_v0	127	Picture	full0n	1556663	0	1	3666	2	0	3620	other	0
+01_S-325_v0	128	Picture	full0i	1568496	0	1	2667	2	0	2620	other	0
+01_S-325_v0	129	Picture	blue1n	1581996	0	1	2833	2	0	2790	false_alarm	145
+01_S-325_v0	129	Response	10	1587146	5150	1
+01_S-325_v0	129	Response	10	1587346	5350	1
+01_S-325_v0	130	Picture	full0n	1595496	0	1	5000	2	0	4950	other	0
+01_S-325_v0	131	Picture	full1i	1606496	0	1	3333	2	0	3290	other	0
+01_S-325_v0	132	Picture	full0i	1619162	0	2	2834	3	0	2790	other	0
+01_S-325_v0	133	Picture	full0n	1630662	0	2	3834	3	0	3790	other	0
+01_S-325_v0	134	Picture	full0i	1642829	0	1	2833	2	0	2790	other	0
+01_S-325_v0	135	Picture	full1n	1653662	0	1	3334	2	0	3290	other	0
+01_S-325_v0	136	Picture	82	1664996	0	1	100166	2	0	next	other	0
+01_S-325_v0	136	Picture	82	1765162	100166	1	10000	2	100000	next	other	0
+01_S-325_v0	136	Picture	82	1775162	110166	1	10000	2	110000	next	other	0
+01_S-325_v0	136	Picture	82	1785162	120166	1	10000	2	120000	next	other	0
+01_S-325_v0	136	Picture	82	1795162	130166	1	10000	2	130000	next	other	0
+01_S-325_v0	136	Picture	82	1805162	140166	1	10000	2	140000	next	other	0
+01_S-325_v0	136	Picture	82	1815162	150166	1	10000	2	150000	next	other	0
+01_S-325_v0	136	Picture	82	1825162	160166	1	10000	2	160000	next	other	0
+01_S-325_v0	136	Picture	82	1835162	170166	1	10000	2	170000	next	other	0
+01_S-325_v0	136	Picture	82	1845162	180166	1	10000	2	180000	next	other	0
+01_S-325_v0	136	Picture	82	1855162	190166	1	10000	2	190000	10000	other	0
+01_S-325_v0	137	Picture	full0n	1865162	0	1	3167	2	0	3120	other	0
+01_S-325_v0	138	Picture	full0i	1877495	0	1	2833	3	0	2790	other	0
+01_S-325_v0	139	Picture	full0n	1890328	0	2	4500	4	0	4450	other	0
+01_S-325_v0	140	Picture	full1n	1901828	0	2	3500	4	0	3450	other	0
+01_S-325_v0	141	Picture	blue0i	1915328	0	2	4834	3	0	4790	false_alarm	169
+01_S-325_v0	141	Response	10	1918542	3214	1
+01_S-325_v0	141	Response	10	1918742	3414	1
+01_S-325_v0	142	Picture	full0n	1927495	0	1	4333	2	0	4290	other	0
+01_S-325_v0	143	Picture	full1i	1939828	0	1	3500	2	0	3450	other	0
+01_S-325_v0	144	Picture	full1n	1950828	0	1	4167	2	0	4120	other	0
+01_S-325_v0	145	Picture	full1i	1962162	0	1	3000	2	0	2950	other	0
+01_S-325_v0	146	Picture	full0i	1974328	0	1	3834	2	0	3790	other	0
+01_S-325_v0	147	Picture	full1n	1985328	0	1	5000	2	0	4950	other	0
+01_S-325_v0	148	Picture	full1i	1997995	0	1	4167	2	0	4120	other	0
+01_S-325_v0	149	Picture	blue0n	2010162	0	1	4166	2	0	4120	false_alarm	179
+01_S-325_v0	149	Response	10	2013738	3576	4
+01_S-325_v0	150	Picture	full0i	2022828	0	1	3667	2	0	3620	other	0
+01_S-325_v0	151	Picture	full0n	2033661	0	2	4500	4	0	4450	other	0
+01_S-325_v0	152	Picture	full0i	2045995	0	1	3333	2	0	3290	other	0
+01_S-325_v0	153	Picture	full0n	2058328	0	1	4333	2	0	4290	other	0
+01_S-325_v0	154	Picture	full1n	2070495	0	1	4666	2	0	4620	other	0
+01_S-325_v0	155	Picture	full0i	2083661	0	2	2500	3	0	2450	other	0
+01_S-325_v0	156	Picture	full1i	2094495	0	1	3000	2	0	2950	other	0
+01_S-325_v0	157	Picture	full0n	2105495	0	1	4999	3	0	4950	other	0
+01_S-325_v0	158	Picture	full1n	2118161	0	1	4500	2	0	4450	other	0
+01_S-325_v0	159	Picture	blue1i	2131328	0	1	3000	2	0	2950	false_alarm	190
+01_S-325_v0	159	Response	10	2137736	6408	4
+01_S-325_v0	160	Picture	full0i	2142828	0	1	3333	2	0	3290	other	0
+01_S-325_v0	161	Picture	full0n	2156328	0	1	3167	2	0	3120	other	0
+01_S-325_v0	162	Picture	full1n	2169494	0	2	3834	3	0	3790	other	0
+01_S-325_v0	163	Picture	full1i	2181661	0	1	5000	2	0	4950	other	0
+01_S-325_v0	164	Picture	full1n	2193494	0	2	2500	4	0	2450	other	0
+01_S-325_v0	165	Picture	full0i	2206661	0	1	4333	2	0	4290	other	0
+01_S-325_v0	166	Picture	full0n	2220161	0	1	2833	2	0	2790	other	0
+01_S-325_v0	167	Picture	full1i	2232494	0	2	2834	3	0	2790	other	0
+01_S-325_v0	168	Picture	full0i	2245328	0	1	4166	2	0	4120	other	0
+01_S-325_v0	169	Picture	full0n	2256828	0	1	3666	2	0	3620	other	0
+01_S-325_v0	170	Picture	full0i	2268661	0	1	3667	2	0	3620	other	0
+01_S-325_v0	171	Picture	full1n	2282161	0	1	5000	2	0	4950	other	0
+01_S-325_v0	172	Picture	full0n	2292994	0	1	2834	2	0	2790	other	0
+01_S-325_v0	173	Picture	blue0i	2304328	0	1	3000	2	0	2950	false_alarm	205
+01_S-325_v0	173	Response	10	2308727	4399	1
+01_S-325_v0	173	Response	10	2308927	4599	1
+01_S-325_v0	174	Picture	full1i	2316161	0	1	2833	2	0	2790	other	0
+01_S-325_v0	175	Picture	full1n	2327161	0	1	4000	2	0	3950	other	0
+01_S-325_v0	176	Picture	full1i	2339327	0	2	3667	3	0	3620	other	0
+01_S-325_v0	177	Picture	full1n	2351161	0	1	2833	2	0	2790	other	0
+01_S-325_v0	178	Picture	blue1i	2363494	0	1	4333	2	0	4290	false_alarm	212
+01_S-325_v0	178	Response	10	2367320	3826	2
+01_S-325_v0	178	Response	10	2369926	6432	1
+01_S-325_v0	179	Picture	full0n	2375661	0	1	3666	2	0	3620	other	0
+01_S-325_v0	180	Picture	full1n	2388494	0	1	3667	2	0	3620	other	0
+01_S-325_v0	181	Picture	full0i	2399494	0	1	4500	2	0	4450	other	0
+01_S-325_v0	182	Picture	full1i	2412161	0	1	3166	2	0	3120	other	0
+01_S-325_v0	183	Picture	full0n	2424827	0	1	3000	2	0	2950	other	0
+01_S-325_v0	184	Picture	full1n	2437494	0	1	3167	2	0	3120	other	0
+01_S-325_v0	185	Picture	full1i	2449661	0	1	3833	2	0	3790	other	0
+01_S-325_v0	186	Picture	full1n	2462494	0	1	3000	2	0	2950	other	0
+01_S-325_v0	187	Picture	full1i	2475994	0	1	4833	2	0	4790	other	0
+01_S-325_v0	188	Picture	full0i	2487494	0	1	2500	2	0	2450	other	0
+01_S-325_v0	189	Picture	blue0n	2498827	0	1	3000	2	0	2950	false_alarm	225
+01_S-325_v0	189	Response	10	2504122	5295	4
+01_S-325_v0	189	Response	10	2507725	8898	1
+01_S-325_v0	190	Picture	full1n	2510994	0	1	3000	2	0	2950	other	0
+01_S-325_v0	191	Picture	full1i	2523827	0	1	3667	2	0	3620	other	0
+01_S-325_v0	192	Picture	full0i	2537327	0	1	3333	2	0	3290	other	0
+01_S-325_v0	193	Picture	full0n	2548160	0	1	4500	2	0	4450	other	0
+01_S-325_v0	194	Picture	full0i	2560827	0	1	4167	2	0	4120	other	0
+01_S-325_v0	195	Picture	full1n	2571827	0	1	2667	2	0	2620	other	0
+01_S-325_v0	196	Picture	full1i	2583994	0	1	4666	2	0	4620	other	0
+01_S-325_v0	197	Picture	blue1n	2594994	0	1	2666	2	0	2620	false_alarm	235
+01_S-325_v0	197	Response	10	2599921	4927	4
+01_S-325_v0	198	Picture	full0n	2607327	0	1	4667	2	0	4620	other	0
+01_S-325_v0	199	Picture	full1i	2620493	0	2	2834	3	0	2790	other	0
+01_S-325_v0	200	Picture	full0i	2631327	0	1	4000	2	0	3950	other	0
+01_S-325_v0	201	Picture	full0n	2643493	0	2	3500	3	0	3450	other	0
+01_S-325_v0	202	Picture	full0i	2655327	0	1	4000	2	0	3950	other	0
+01_S-325_v0	203	Picture	full1n	2666327	0	1	4500	2	0	4450	other	0
+01_S-325_v0	204	Picture	full1i	2679827	0	1	2500	2	0	2450	other	0
+01_S-325_v0	205	Picture	full1n	2691660	0	1	4167	2	0	4120	other	0
+01_S-325_v0	206	Picture	blue1i	2704827	0	1	4833	2	0	4790	false_alarm	245
+01_S-325_v0	206	Response	10	2709320	4493	3
+01_S-325_v0	206	Response	10	2712522	7695	1
+01_S-325_v0	207	Picture	full1n	2715827	0	1	2500	2	0	2450	other	0
+01_S-325_v0	208	Picture	full1i	2728660	0	1	4833	2	0	4790	other	0
+01_S-325_v0	209	Picture	full1n	2739993	0	1	3334	2	0	3290	other	0
+01_S-325_v0	210	Picture	full0n	2752660	0	1	3500	2	0	3450	other	0
+01_S-325_v0	211	Picture	full0i	2765326	0	2	3834	3	0	3790	other	0
+01_S-325_v0	212	Picture	full1i	2778493	0	1	4500	2	0	4450	other	0
+01_S-325_v0	213	Picture	full1n	2789326	0	2	2500	3	0	2450	other	0
+01_S-325_v0	214	Picture	full0n	2800826	0	2	4167	3	0	4120	other	0
+01_S-325_v0	215	Picture	full1i	2813660	0	1	4666	2	0	4620	other	0
+01_S-325_v0	216	Picture	blue0i	2825493	0	1	2500	2	0	2450	false_alarm	257
+01_S-325_v0	216	Response	10	2831518	6025	4
+01_S-325_v0	217	Picture	full0n	2837326	0	1	3500	2	0	3450	other	0
+01_S-325_v0	218	Picture	full0i	2848826	0	1	3167	2	0	3120	other	0
+01_S-325_v0	219	Picture	full0n	2859660	0	1	3000	2	0	2950	other	0
+01_S-325_v0	220	Picture	full1n	2871993	0	1	3333	2	0	3290	other	0
+01_S-325_v0	221	Picture	full1i	2884826	0	1	3000	2	0	2950	other	0
+01_S-325_v0	222	Picture	full0i	2897160	0	1	3000	2	0	2950	other	0
+01_S-325_v0	223	Picture	full0n	2910660	0	1	3666	2	0	3620	other	0
+01_S-325_v0	224	Picture	full0i	2924159	0	2	4000	4	0	3950	other	0
+01_S-325_v0	225	Picture	blue1n	2936326	0	1	4833	3	0	4790	false_alarm	267
+01_S-325_v0	225	Response	10	2939719	3393	2
+01_S-325_v0	226	Picture	full0n	2949826	0	1	2500	2	0	2450	other	0
+01_S-325_v0	227	Picture	full1i	2961159	0	2	4500	3	0	4450	other	0
+01_S-325_v0	228	Picture	full0i	2974326	0	1	3333	2	0	3290	other	0
+01_S-325_v0	229	Picture	full0n	2986993	0	1	4500	2	0	4450	other	0
+01_S-325_v0	230	Picture	full1n	2997826	0	1	4167	2	0	4120	other	0
+01_S-325_v0	231	Picture	full0i	3010993	0	1	3833	2	0	3790	other	0
+01_S-325_v0	232	Picture	full0n	3023826	0	1	4500	2	0	4450	other	0
+01_S-325_v0	233	Picture	full0i	3035993	0	1	2833	2	0	2790	other	0
+01_S-325_v0	234	Picture	full0n	3047493	0	1	3833	2	0	3790	other	0
+01_S-325_v0	235	Picture	full0i	3058992	0	2	4501	3	0	4450	other	0
+01_S-325_v0	236	Picture	full1i	3071826	0	1	3666	3	0	3620	other	0
+01_S-325_v0	237	Picture	full0n	3083159	0	1	4500	2	0	4450	other	0
+01_S-325_v0	238	Picture	full0i	3094492	0	2	4500	3	0	4450	other	0
+01_S-325_v0	239	Picture	full0n	3106659	0	1	4667	2	0	4620	other	0
+01_S-325_v0	240	Picture	full0i	3120159	0	1	3167	2	0	3120	other	0
+01_S-325_v0	241	Picture	blue0n	3133326	0	1	2666	2	0	2620	false_alarm	284
+01_S-325_v0	241	Response	10	3138714	5388	4
+01_S-325_v0	242	Picture	full1n	3144659	0	1	4667	2	0	4620	other	0
+01_S-325_v0	243	Picture	full1i	3156826	0	1	5000	2	0	4950	other	0
+01_S-325_v0	244	Picture	full0i	3168326	0	1	3500	2	0	3450	other	0
+01_S-325_v0	245	Picture	full0n	3181492	0	1	4834	2	0	4790	other	0
+01_S-325_v0	246	Picture	full1n	3193659	0	1	4500	2	0	4450	other	0
+01_S-325_v0	247	Picture	full1i	3205992	0	1	2667	2	0	2620	other	0
+01_S-325_v0	248	Picture	full0i	3218659	0	1	3166	3	0	3120	other	0
+01_S-325_v0	249	Picture	full1n	3231492	0	1	3167	2	0	3120	other	0
+01_S-325_v0	250	Picture	blue1i	3242992	0	1	3167	2	0	3120	false_alarm	294
+01_S-325_v0	250	Response	10	3248716	5724	1
+01_S-325_v0	250	Response	10	3248916	5924	1
+01_S-325_v0	251	Picture	full1n	3253992	0	1	3167	2	0	3120	other	0
+01_S-325_v0	252	Picture	full0n	3266159	0	1	3833	2	0	3790	other	0
+01_S-325_v0	253	Picture	full0i	3277992	0	1	4833	2	0	4790	other	0
+01_S-325_v0	254	Picture	full0n	3290159	0	1	4500	2	0	4450	other	0
+01_S-325_v0	255	Picture	full1i	3300992	0	1	4500	2	0	4450	other	0
+01_S-325_v0	256	Picture	full1n	3313159	0	1	5000	2	0	4950	other	0
+01_S-325_v0	257	Picture	full0i	3325325	0	1	2500	2	0	2450	other	0
+01_S-325_v0	258	Picture	full1i	3337492	0	1	4667	2	0	4620	other	0
+01_S-325_v0	259	Picture	full1n	3348825	0	1	3167	2	0	3120	other	0
+01_S-325_v0	260	Picture	full1i	3360325	0	1	4333	3	0	4290	other	0
+01_S-325_v0	261	Picture	full1n	3372492	0	1	3666	3	0	3620	other	0
+01_S-325_v0	262	Picture	full1i	3384825	0	1	2667	2	0	2620	other	0
+01_S-325_v0	263	Picture	blue0n	3396658	0	2	2834	3	0	2790	false_alarm	309
+01_S-325_v0	263	Response	10	3401514	4856	1
+01_S-325_v0	263	Response	10	3404714	8056	1
+01_S-325_v0	264	Picture	full1n	3407658	0	2	5000	3	0	4950	other	0
+01_S-325_v0	265	Picture	full0i	3419158	0	1	3334	2	0	3290	other	0
+01_S-325_v0	266	Picture	full1i	3430492	0	1	2833	2	0	2790	other	0
+01_S-325_v0	267	Picture	full1n	3442325	0	1	3833	2	0	3790	other	0
+01_S-325_v0	268	Picture	full1i	3453658	0	1	2834	2	0	2790	other	0
+01_S-325_v0	269	Picture	full0n	3464492	0	1	3333	2	0	3290	other	0
+01_S-325_v0	270	Picture	default	3475825	0	1	2667	2	0	2500	other	0
+01_S-325_v0	271	Picture	default	3495992	0	1	7138	2	0	2500	other	0
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Picture	full1n	other				54499	1	3167	2	0	3120
+Picture	full1i	other				65429	238	2904	239	0	2790
+Picture	full1n	other				78666	1	4500	2	0	4450
+Picture	full0n	other				91832	2	3500	4	0	3450
+Picture	full1i	other				102666	1	4833	2	0	4790
+Picture	full1n	other				114832	2	4334	3	0	4290
+Picture	full0i	other				126999	1	3500	2	0	3450
+Picture	full0n	other				139332	2	4167	3	0	4120
+Picture	blue0i	false_alarm	2	7371	199	150802	198	3030	199	0	2950
+Picture	full1i	other				162832	1	3834	2	0	3790
+Picture	full0n	other				175666	1	5000	2	0	4950
+Picture	full0i	other				188332	1	4167	2	0	4120
+Picture	full1n	other				201832	1	4167	2	0	4120
+Picture	full1i	other				214499	1	3667	2	0	3620
+Picture	full1n	other				225832	1	4500	2	0	4450
+Picture	blue1i	false_alarm	2	5770	5	237999	1	3333	2	0	3290
+Picture	full1n	other				250165	2	4334	3	0	4290
+Picture	full0n	other				262332	1	4667	2	0	4620
+Picture	full1i	other				274165	2	2500	3	0	2450
+Picture	full0i	other				286499	1	3000	2	0	2950
+Picture	full0n	other				299999	1	5000	2	0	4950
+Picture	full0i	other				313499	1	4500	2	0	4450
+Picture	full0n	other				326332	1	3000	2	0	2950
+Picture	full1n	other				338999	1	3333	2	0	3290
+Picture	blue1i	false_alarm	2	4136	5	350832	1	3167	2	0	3120
+Picture	full0i	other				363499	1	3833	2	0	3790
+Picture	full0n	other				375832	1	5000	2	0	4950
+Picture	full0i	other				387665	1	2500	2	0	2450
+Picture	full1n	other				398998	2	4334	3	0	4290
+Picture	full1i	other				411165	1	2833	3	0	2790
+Picture	full0n	other				422665	1	2833	2	0	2790
+Picture	full1n	other				433498	2	4167	3	0	4120
+Picture	full1i	other				445665	1	3667	2	0	3620
+Picture	full1n	other				458498	1	3667	2	0	3620
+Picture	full0i	other				470665	1	5000	2	0	4950
+Picture	blue1i	false_alarm	2	4771	2	481998	1	2834	2	0	2790
+Picture	full1n	other				492998	1	3000	2	0	2950
+Picture	full0n	other				505665	1	2833	2	0	2790
+Picture	full0i	other				516665	1	4000	2	0	3950
+Picture	full0n	other				528832	1	3666	2	0	3620
+Picture	full0i	other				541665	1	2833	2	0	2790
+Picture	full0n	other				554831	2	4334	3	0	4290
+Picture	full1i	other				567998	1	3667	2	0	3620
+Picture	full0i	other				580665	1	3666	2	0	3620
+Picture	full1n	other				591498	1	4500	2	0	4450
+Picture	full0n	other				603665	1	3166	2	0	3120
+Picture	full1i	other				615165	1	3000	2	0	2950
+Picture	blue0i	false_alarm	2	4767	5	626998	1	3167	2	0	3120
+Picture	full0n	other				638498	1	3833	2	0	3790
+Picture	full0i	other				650831	1	3000	2	0	2950
+Picture	full0n	other				662331	1	4833	5	0	4790
+Picture	full1n	other				675498	1	2500	2	0	2450
+Picture	full1i	other				686331	1	3000	2	0	2950
+Picture	full0i	other				699831	1	3000	2	0	2950
+Picture	full0n	other				711164	2	3667	3	0	3620
+Picture	full1n	other				724331	1	3333	2	0	3290
+Picture	full1i	other				736498	1	4500	2	0	4450
+Picture	blue1n	false_alarm	2	4635	2	748331	1	4167	2	0	4120
+Picture	full0i	other				760664	1	2667	2	0	2620
+Picture	full0n	other				773331	1	4667	2	0	4620
+Picture	full0i	other				785498	1	2665	5	0	2620
+Picture	full1i	other				798331	1	4667	2	0	4620
+Picture	full0n	other				809831	1	2833	2	0	2790
+Picture	full1n	other				821998	1	4000	2	0	3950
+Picture	full1i	other				834831	1	3500	2	0	3450
+Picture	full1n	other				847162	4	4002	5	0	3950
+Picture	full0i	other				859331	1	4500	2	0	4450
+Picture	blue0n	false_alarm	2	6065	6	871497	2	2500	3	0	2450
+Picture	full0i	other				883664	1	4167	2	0	4120
+Picture	full0n	other				894497	1	4834	2	0	4790
+Picture	full0i	other				905497	1	2500	2	0	2450
+Picture	full0n	other				918331	1	4833	2	0	4790
+Picture	full0i	other				930997	1	3334	2	0	3290
+Picture	full1i	other				944497	1	3500	2	0	3450
+Picture	full1n	other				957164	1	3833	2	0	3790
+Picture	full0n	other				969997	1	4500	2	0	4450
+Picture	full0i	other				982164	1	2500	2	0	2450
+Picture	full1i	other				992997	1	4167	2	0	4120
+Picture	blue0n	false_alarm	2	5133	3	1005830	2	4667	3	0	4620
+Picture	full1n	other				1016830	2	2500	3	0	2450
+Picture	full1i	other				1029164	1	3500	2	0	3450
+Picture	full1n	other				1040164	1	3166	2	0	3120
+Picture	full1i	other				1053330	1	3000	2	0	2950
+Picture	full0i	other				1064830	1	3334	2	0	3290
+Picture	full0n	other				1076330	1	3000	2	0	2950
+Picture	full1n	other				1088664	1	3000	2	0	2950
+Picture	full1i	other				1100830	1	3667	2	0	3620
+Picture	full1n	other				1113997	1	4000	2	0	3950
+Picture	full1i	other				1125330	1	4834	2	0	4790
+Picture	full1n	other				1138497	1	2500	2	0	2450
+Picture	full0i	other				1149830	1	4500	2	0	4450
+Picture	blue1i	false_alarm	2	4785	6	1161163	2	3334	3	0	3290
+Picture	full1n	other				1172997	1	4500	2	0	4450
+Picture	full0n	other				1186163	2	4167	3	0	4120
+Picture	full1i	other				1197663	1	3834	2	0	3790
+Picture	full1n	other				1208663	1	4500	2	0	4450
+Picture	full1i	other				1221830	1	2833	2	0	2790
+Picture	full1n	other				1232663	1	3834	2	0	3790
+Picture	full1i	other				1244830	1	4500	2	0	4450
+Picture	full0i	other				1255663	1	3667	2	0	3620
+Picture	blue1n	false_alarm	2	3484	5	1266663	1	4500	2	0	4450
+Picture	full1i	other				1277663	1	4500	2	0	4450
+Picture	full1n	other				1291163	1	4667	2	0	4620
+Picture	full1i	other				1302996	2	3167	3	0	3120
+Picture	full1n	other				1316496	2	2667	3	0	2620
+Picture	full0n	other				1328330	1	4666	2	0	4620
+Picture	full0i	other				1340496	1	5000	2	0	4950
+Picture	full1i	other				1352830	1	3500	2	0	3450
+Picture	full1n	other				1366330	1	4833	2	0	4790
+Picture	blue0n	false_alarm	2	4685	3	1378663	1	4500	2	0	4450
+Picture	full0i	other				1389996	1	2667	2	0	2620
+Picture	full1i	other				1401496	1	3167	2	0	3120
+Picture	full0n	other				1414163	1	3167	2	0	3120
+Picture	full0i	other				1424996	1	3167	2	0	3120
+Picture	full0n	other				1436830	1	3166	2	0	3120
+Picture	full1n	other				1449663	1	3833	2	0	3790
+Picture	full1i	other				1463163	1	4833	2	0	4790
+Picture	full1n	other				1475996	1	4500	2	0	4450
+Picture	blue0i	false_alarm	2	4615	6	1487329	2	4500	3	0	4450
+Picture	full0n	other				1499163	1	5000	2	0	4950
+Picture	full1i	other				1510154	12	2509	13	0	2450
+Picture	full0i	other				1522496	1	4667	2	0	4620
+Picture	full0n	other				1533829	1	3167	2	0	3120
+Picture	full0i	other				1545163	1	4333	2	0	4290
+Picture	full0n	other				1556663	1	3666	2	0	3620
+Picture	full0i	other				1568496	1	2667	2	0	2620
+Picture	blue1n	false_alarm	2	5150	2	1581996	1	2833	2	0	2790
+Picture	full0n	other				1595496	1	5000	2	0	4950
+Picture	full1i	other				1606496	1	3333	2	0	3290
+Picture	full0i	other				1619162	2	2834	3	0	2790
+Picture	full0n	other				1630662	2	3834	3	0	3790
+Picture	full0i	other				1642829	1	2833	2	0	2790
+Picture	full1n	other				1653662	1	3334	2	0	3290
+Picture	82	other				1664996	1	100166	2	0	next
+Picture	82	other				1765162	1	10000	2	100000	next
+Picture	82	other				1775162	1	10000	2	110000	next
+Picture	82	other				1785162	1	10000	2	120000	next
+Picture	82	other				1795162	1	10000	2	130000	next
+Picture	82	other				1805162	1	10000	2	140000	next
+Picture	82	other				1815162	1	10000	2	150000	next
+Picture	82	other				1825162	1	10000	2	160000	next
+Picture	82	other				1835162	1	10000	2	170000	next
+Picture	82	other				1845162	1	10000	2	180000	next
+Picture	82	other				1855162	1	10000	2	190000	10000
+Picture	full0n	other				1865162	1	3167	2	0	3120
+Picture	full0i	other				1877495	1	2833	3	0	2790
+Picture	full0n	other				1890328	2	4500	4	0	4450
+Picture	full1n	other				1901828	2	3500	4	0	3450
+Picture	blue0i	false_alarm	2	3214	3	1915328	2	4834	3	0	4790
+Picture	full0n	other				1927495	1	4333	2	0	4290
+Picture	full1i	other				1939828	1	3500	2	0	3450
+Picture	full1n	other				1950828	1	4167	2	0	4120
+Picture	full1i	other				1962162	1	3000	2	0	2950
+Picture	full0i	other				1974328	1	3834	2	0	3790
+Picture	full1n	other				1985328	1	5000	2	0	4950
+Picture	full1i	other				1997995	1	4167	2	0	4120
+Picture	blue0n	false_alarm	2	3576	5	2010162	1	4166	2	0	4120
+Picture	full0i	other				2022828	1	3667	2	0	3620
+Picture	full0n	other				2033661	2	4500	4	0	4450
+Picture	full0i	other				2045995	1	3333	2	0	3290
+Picture	full0n	other				2058328	1	4333	2	0	4290
+Picture	full1n	other				2070495	1	4666	2	0	4620
+Picture	full0i	other				2083661	2	2500	3	0	2450
+Picture	full1i	other				2094495	1	3000	2	0	2950
+Picture	full0n	other				2105495	1	4999	3	0	4950
+Picture	full1n	other				2118161	1	4500	2	0	4450
+Picture	blue1i	false_alarm	2	6408	5	2131328	1	3000	2	0	2950
+Picture	full0i	other				2142828	1	3333	2	0	3290
+Picture	full0n	other				2156328	1	3167	2	0	3120
+Picture	full1n	other				2169494	2	3834	3	0	3790
+Picture	full1i	other				2181661	1	5000	2	0	4950
+Picture	full1n	other				2193494	2	2500	4	0	2450
+Picture	full0i	other				2206661	1	4333	2	0	4290
+Picture	full0n	other				2220161	1	2833	2	0	2790
+Picture	full1i	other				2232494	2	2834	3	0	2790
+Picture	full0i	other				2245328	1	4166	2	0	4120
+Picture	full0n	other				2256828	1	3666	2	0	3620
+Picture	full0i	other				2268661	1	3667	2	0	3620
+Picture	full1n	other				2282161	1	5000	2	0	4950
+Picture	full0n	other				2292994	1	2834	2	0	2790
+Picture	blue0i	false_alarm	2	4399	2	2304328	1	3000	2	0	2950
+Picture	full1i	other				2316161	1	2833	2	0	2790
+Picture	full1n	other				2327161	1	4000	2	0	3950
+Picture	full1i	other				2339327	2	3667	3	0	3620
+Picture	full1n	other				2351161	1	2833	2	0	2790
+Picture	blue1i	false_alarm	2	3826	3	2363494	1	4333	2	0	4290
+Picture	full0n	other				2375661	1	3666	2	0	3620
+Picture	full1n	other				2388494	1	3667	2	0	3620
+Picture	full0i	other				2399494	1	4500	2	0	4450
+Picture	full1i	other				2412161	1	3166	2	0	3120
+Picture	full0n	other				2424827	1	3000	2	0	2950
+Picture	full1n	other				2437494	1	3167	2	0	3120
+Picture	full1i	other				2449661	1	3833	2	0	3790
+Picture	full1n	other				2462494	1	3000	2	0	2950
+Picture	full1i	other				2475994	1	4833	2	0	4790
+Picture	full0i	other				2487494	1	2500	2	0	2450
+Picture	blue0n	false_alarm	2	5295	5	2498827	1	3000	2	0	2950
+Picture	full1n	other				2510994	1	3000	2	0	2950
+Picture	full1i	other				2523827	1	3667	2	0	3620
+Picture	full0i	other				2537327	1	3333	2	0	3290
+Picture	full0n	other				2548160	1	4500	2	0	4450
+Picture	full0i	other				2560827	1	4167	2	0	4120
+Picture	full1n	other				2571827	1	2667	2	0	2620
+Picture	full1i	other				2583994	1	4666	2	0	4620
+Picture	blue1n	false_alarm	2	4927	5	2594994	1	2666	2	0	2620
+Picture	full0n	other				2607327	1	4667	2	0	4620
+Picture	full1i	other				2620493	2	2834	3	0	2790
+Picture	full0i	other				2631327	1	4000	2	0	3950
+Picture	full0n	other				2643493	2	3500	3	0	3450
+Picture	full0i	other				2655327	1	4000	2	0	3950
+Picture	full1n	other				2666327	1	4500	2	0	4450
+Picture	full1i	other				2679827	1	2500	2	0	2450
+Picture	full1n	other				2691660	1	4167	2	0	4120
+Picture	blue1i	false_alarm	2	4493	4	2704827	1	4833	2	0	4790
+Picture	full1n	other				2715827	1	2500	2	0	2450
+Picture	full1i	other				2728660	1	4833	2	0	4790
+Picture	full1n	other				2739993	1	3334	2	0	3290
+Picture	full0n	other				2752660	1	3500	2	0	3450
+Picture	full0i	other				2765326	2	3834	3	0	3790
+Picture	full1i	other				2778493	1	4500	2	0	4450
+Picture	full1n	other				2789326	2	2500	3	0	2450
+Picture	full0n	other				2800826	2	4167	3	0	4120
+Picture	full1i	other				2813660	1	4666	2	0	4620
+Picture	blue0i	false_alarm	2	6025	5	2825493	1	2500	2	0	2450
+Picture	full0n	other				2837326	1	3500	2	0	3450
+Picture	full0i	other				2848826	1	3167	2	0	3120
+Picture	full0n	other				2859660	1	3000	2	0	2950
+Picture	full1n	other				2871993	1	3333	2	0	3290
+Picture	full1i	other				2884826	1	3000	2	0	2950
+Picture	full0i	other				2897160	1	3000	2	0	2950
+Picture	full0n	other				2910660	1	3666	2	0	3620
+Picture	full0i	other				2924159	2	4000	4	0	3950
+Picture	blue1n	false_alarm	2	3393	3	2936326	1	4833	3	0	4790
+Picture	full0n	other				2949826	1	2500	2	0	2450
+Picture	full1i	other				2961159	2	4500	3	0	4450
+Picture	full0i	other				2974326	1	3333	2	0	3290
+Picture	full0n	other				2986993	1	4500	2	0	4450
+Picture	full1n	other				2997826	1	4167	2	0	4120
+Picture	full0i	other				3010993	1	3833	2	0	3790
+Picture	full0n	other				3023826	1	4500	2	0	4450
+Picture	full0i	other				3035993	1	2833	2	0	2790
+Picture	full0n	other				3047493	1	3833	2	0	3790
+Picture	full0i	other				3058992	2	4501	3	0	4450
+Picture	full1i	other				3071826	1	3666	3	0	3620
+Picture	full0n	other				3083159	1	4500	2	0	4450
+Picture	full0i	other				3094492	2	4500	3	0	4450
+Picture	full0n	other				3106659	1	4667	2	0	4620
+Picture	full0i	other				3120159	1	3167	2	0	3120
+Picture	blue0n	false_alarm	2	5388	5	3133326	1	2666	2	0	2620
+Picture	full1n	other				3144659	1	4667	2	0	4620
+Picture	full1i	other				3156826	1	5000	2	0	4950
+Picture	full0i	other				3168326	1	3500	2	0	3450
+Picture	full0n	other				3181492	1	4834	2	0	4790
+Picture	full1n	other				3193659	1	4500	2	0	4450
+Picture	full1i	other				3205992	1	2667	2	0	2620
+Picture	full0i	other				3218659	1	3166	3	0	3120
+Picture	full1n	other				3231492	1	3167	2	0	3120
+Picture	blue1i	false_alarm	2	5724	2	3242992	1	3167	2	0	3120
+Picture	full1n	other				3253992	1	3167	2	0	3120
+Picture	full0n	other				3266159	1	3833	2	0	3790
+Picture	full0i	other				3277992	1	4833	2	0	4790
+Picture	full0n	other				3290159	1	4500	2	0	4450
+Picture	full1i	other				3300992	1	4500	2	0	4450
+Picture	full1n	other				3313159	1	5000	2	0	4950
+Picture	full0i	other				3325325	1	2500	2	0	2450
+Picture	full1i	other				3337492	1	4667	2	0	4620
+Picture	full1n	other				3348825	1	3167	2	0	3120
+Picture	full1i	other				3360325	1	4333	3	0	4290
+Picture	full1n	other				3372492	1	3666	3	0	3620
+Picture	full1i	other				3384825	1	2667	2	0	2620
+Picture	blue0n	false_alarm	2	4856	3	3396658	2	2834	3	0	2790
+Picture	full1n	other				3407658	2	5000	3	0	4950
+Picture	full0i	other				3419158	1	3334	2	0	3290
+Picture	full1i	other				3430492	1	2833	2	0	2790
+Picture	full1n	other				3442325	1	3833	2	0	3790
+Picture	full1i	other				3453658	1	2834	2	0	2790
+Picture	full0n	other				3464492	1	3333	2	0	3290
+Picture	default	other				3475825	1	2667	2	0	2500
+Picture	default	other				3495992	1	7138	2	0	2500
